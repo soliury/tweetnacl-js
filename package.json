@@ -1,5 +1,5 @@
 {
-  "name": "tweetnacl",
+  "name": "tweetnacl-rn",
   "version": "0.14.1",
   "description": "Port of TweetNaCl cryptographic library to JavaScript",
   "main": "nacl-fast.js",
